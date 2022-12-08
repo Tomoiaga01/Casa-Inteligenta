@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<Intrare>
+  <Temperatura>
+      <Ora>Tanmay</Ora>
+      <Data>Patil</Data>
+      <Valoare>1234567890</Valoare>
+     
+      
+  </Temperatura>
+  <Temperatura2>
+      <Ora>Tanmay</Ora>
+      <Data>Patil</Data>
+      <Valoare>1234567890</Valoare>
+     
+      
+  </Temperatura2>
+   <Becuri>
+      <Ora>Tanmay</Ora>
+      <Data>Patil</Data>
+      <Valoare>1234567890</Valoare>
+      
+  </Becuri>
+   <Becuri2>
+      <Ora>Tanmay</Ora>
+      <Data>Patil</Data>
+      <Valoare>1234567890</Valoare>
+      
+  </Becuri2>
+   <Usa>
+      <Ora>Tanmay</Ora>
+      <Data>Patil</Data>
+      <Valoare>1234567890</Valoare>
+      
+  </Usa>
+   <Usa2>
+      <Ora>Tanmay</Ora>
+      <Data>Patil</Data>
+      <Valoare>1234567890</Valoare>
+      
+  </Usa2>
+</Intrare>
