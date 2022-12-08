@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0"?>
 <Intrare>
   <Temperatura>
-      <Ora>Tanmay</Ora>
-      <Data>Patil</Data>
-      <Valoare>1234567890</Valoare>
+      <Ora>19:20</Ora>
+      <Data>19.11.2022</Data>
+      <Valoare>36</Valoare>
      
       
   </Temperatura>
   <Temperatura2>
-      <Ora>Tanmay</Ora>
-      <Data>Patil</Data>
-      <Valoare>1234567890</Valoare>
+      <Ora>20:20</Ora>
+      <Data>14.11.2022</Data>
+      <Valoare>12</Valoare>
      
       
   </Temperatura2>
    <Becuri>
-      <Ora>Tanmay</Ora>
-      <Data>Patil</Data>
-      <Valoare>1234567890</Valoare>
+      <Ora>08:20</Ora>
+      <Data>17.11.2022</Data>
+      <Valoare>15</Valoare>
       
   </Becuri>
    <Becuri2>
-      <Ora>Tanmay</Ora>
-      <Data>Patil</Data>
-      <Valoare>1234567890</Valoare>
+      <Ora>17:00</Ora>
+      <Data>17.11.2022</Data>
+      <Valoare>20</Valoare>
       
   </Becuri2>
    <Usa>
-      <Ora>Tanmay</Ora>
-      <Data>Patil</Data>
-      <Valoare>1234567890</Valoare>
+      <Ora>18:00</Ora>
+      <Data>20.11.2022</Data>
+      <Valoare>17</Valoare>
       
   </Usa>
    <Usa2>
-      <Ora>Tanmay</Ora>
-      <Data>Patil</Data>
-      <Valoare>1234567890</Valoare>
+      <Ora>04:24</Ora>
+      <Data>23.11.2022</Data>
+      <Valoare>19</Valoare>
       
   </Usa2>
 </Intrare>
