@@ -3,7 +3,7 @@
     "model": "my_encoding_model_v0",
     "value": {
       "temp": 12.75,
-      "usa": 62.1,
+      "usa": false,
       "becuri": true
               }
 }
